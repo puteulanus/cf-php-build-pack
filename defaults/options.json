@@ -27,7 +27,7 @@
     "PHP_54_LATEST": "5.4.33",
     "PHP_55_LATEST": "5.5.17",
     "PHP_56_LATEST": "5.6.1",
-    "PHP_VERSION": "{PHP_56_LATEST}",
+    "PHP_VERSION": "{PHP_55_LATEST}",
     "PHP_PACKAGE": "php-{PHP_VERSION}.tar.gz",
     "PHP_DOWNLOAD_URL": "{DOWNLOAD_URL}/php/{PHP_VERSION}/{PHP_PACKAGE}",
     "PHP_STRIP": "true",
